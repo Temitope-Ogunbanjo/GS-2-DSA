@@ -1,0 +1,244 @@
+{
+    "Id": 0,
+    "Titulo": "Com quantos anos posso tirar o título de eleitor e começar a votar?",
+    "Categoria": "Cadastro e Título de Eleitor",
+    "Descricao": "O voto é facultativo para jovens de 16 e 17 anos. É possível solicitar o título a partir dos 15 anos, desde que o jovem complete 16 anos até o dia do primeiro turno. A partir dos 18 anos, o voto passa a ser obrigatório. Documentos necessários: Documento com foto e comprovante de residência.",
+    "PublicoAlvo": "Jovens a partir de 15 anos e novos eleitores.",
+    "Canal": "Site do TSE (Autoatendimento Eleitoral) ou Cartório Eleitoral.",
+    "LocalAtendimento": "Online ou presencial no Cartório Eleitoral.",
+    "Proximo": {
+        "Id": 1,
+        "Titulo": "Como tirar o primeiro título de eleitor pela internet?",
+        "Categoria": "Cadastro e Título de Eleitor",
+        "Descricao": "O alistamento eleitoral pode ser feito de forma digital pelo sistema de Autoatendimento Eleitoral no portal do TSE. É necessário preencher o formulário e enviar fotos dos documentos exigidos, incluindo uma foto do requerente segurando o documento de identificação ao lado do rosto.",
+        "PublicoAlvo": "Cidadãos que vão emitir o primeiro título de eleitor.",
+        "Canal": "Site do TSE (Autoatendimento Eleitoral).",
+        "LocalAtendimento": "Plataforma digital / Online.",
+        "Proximo": {
+            "Id": 2,
+            "Titulo": "Preciso ir ao cartório eleitoral para cadastrar a biometria?",
+            "Categoria": "Cadastro e Título de Eleitor",
+            "Descricao": "Nem sempre é necessário o comparecimento presencial. Caso o cidadão já possua dados biométricos cadastrados em órgãos parceiros (como CNH ou CIN), a ida ao cartório pode ser dispensada. Do contrário, o sistema indicará a necessidade de agendamento.",
+            "PublicoAlvo": "Eleitores que precisam cadastrar ou regularizar a biometria.",
+            "Canal": "Site do TSE / Autoatendimento.",
+            "LocalAtendimento": "Cartório Eleitoral ou Postos de Atendimento da Justiça Eleitoral (quando necessário).",
+            "Proximo": {
+                "Id": 3,
+                "Titulo": "Qual é o prazo limite para tirar o título antes das eleições?",
+                "Categoria": "Cadastro e Título de Eleitor",
+                "Descricao": "O cadastro eleitoral é encerrado 150 dias antes da data do primeiro turno (geralmente no início de maio de anos eleitorais). Após este prazo, emissões de novos títulos e alterações de local de votação ficam suspensas temporariamente.",
+                "PublicoAlvo": "Eleitores que precisam regularizar situação ou emitir o primeiro título antes do pleito.",
+                "Canal": "Site do TSE ou Cartório Eleitoral.",
+                "LocalAtendimento": "Online ou presencial.",
+                "Proximo": {
+                    "Id": 4,
+                    "Titulo": "Como baixar e ativar o aplicativo e-Título no celular?",
+                    "Categoria": "Cadastro e Título de Eleitor",
+                    "Descricao": "O aplicativo oficial 'e-Título' está disponível para download gratuito nas lojas virtuais (Android e iOS). Para ativá-lo, o usuário deve informar dados pessoais como nome completo, data de nascimento, CPF e filiação.",
+                    "PublicoAlvo": "Eleitores que desejam portar a versão digital do título.",
+                    "Canal": "Lojas de aplicativos (Google Play ou App Store).",
+                    "LocalAtendimento": "Aplicativo móvel (Dispositivo do usuário).",
+                    "Proximo": {
+                        "Id": 5,
+                        "Titulo": "Como consultar onde fica a minha zona e seção eleitoral?",
+                        "Categoria": "Preparação e Dia da Votação",
+                        "Descricao": "A consulta do endereço do local de votação, bem como o número da zona e da seção, pode ser feita de forma rápida na tela inicial do e-Título ou na seção de Autoatendimento do portal do TSE.",
+                        "PublicoAlvo": "Eleitores que desejam confirmar o local onde vão votar.",
+                        "Canal": "Aplicativo e-Título ou Site do TSE.",
+                        "LocalAtendimento": "Digital / Online.",
+                        "Proximo": {
+                            "Id": 6,
+                            "Titulo": "Quais documentos posso levar no dia da votação?",
+                            "Categoria": "Preparação e Dia da Votação",
+                            "Descricao": "É obrigatória a apresentação de documento oficial com foto. São aceitos: e-Título com foto, RG, CIN, Passaporte, CNH, Carteira de Trabalho ou certificado de reservista. Certidões de nascimento ou casamento não são aceitas para este fim.",
+                            "PublicoAlvo": "Todos os eleitores aptos a votar no dia da eleição.",
+                            "Canal": "Presencial na seção eleitoral.",
+                            "LocalAtendimento": "Seção Eleitoral (Local de Votação).",
+                            "Proximo": {
+                                "Id": 7,
+                                "Titulo": "Posso votar usando apenas o celular sem documento físico?",
+                                "Categoria": "Preparação e Dia da Votação",
+                                "Descricao": "É permitido votar utilizando apenas o celular através do e-Título, desde que a fotografia do eleitor esteja visível na tela (o que comprova a coleta prévia de biometria). Caso o app não exiba a foto, a apresentação de um documento físico oficial é obrigatória.",
+                                "PublicoAlvo": "Usuários do aplicativo e-Título.",
+                                "Canal": "Seção Eleitoral.",
+                                "LocalAtendimento": "Mesa Recebedora de Votos.",
+                                "Proximo": {
+                                    "Id": 8,
+                                    "Titulo": "Posso entrar na cabine de votação com o telefone celular?",
+                                    "Categoria": "Preparação e Dia da Votação",
+                                    "Descricao": "É terminantemente proibido acessar a cabine de votação portando aparelhos celulares, câmeras, fones de ouvido ou qualquer dispositivo eletrônico que possa colocar em risco o sigilo do voto.",
+                                    "PublicoAlvo": "Eleitores no dia da votação.",
+                                    "Canal": "Presencial.",
+                                    "LocalAtendimento": "Cabine de Votação da Seção Eleitoral.",
+                                    "Proximo": {
+                                        "Id": 9,
+                                        "Titulo": "Qual é o horário de funcionamento das seções eleitorais?",
+                                        "Categoria": "Preparação e Dia da Votação",
+                                        "Descricao": "A votação ocorre das 8h às 17h, com base no horário oficial de Brasília. Eleitores que estiverem na fila pontualmente às 17h recebem senhas fornecidas pelos mesários para garantir o exercício do voto.",
+                                        "PublicoAlvo": "Eleitores em geral.",
+                                        "Canal": "Presencial.",
+                                        "LocalAtendimento": "Seção Eleitoral.",
+                                        "Proximo": {
+                                            "Id": 10,
+                                            "Titulo": "Qual é a ordem de votação na urna eletrônica?",
+                                            "Categoria": "Urna, Regras e Pós-Eleição",
+                                            "Descricao": "Nas eleições gerais, a sequência de votação na urna é: Deputado Federal, Deputado Estadual/Distrital, Senador, Governador e Presidente. Nas eleições municipais, vota-se primeiramente para Vereador e em seguida para Prefeito.",
+                                            "PublicoAlvo": "Eleitores no momento do pleito.",
+                                            "Canal": "Urna Eletrônica.",
+                                            "LocalAtendimento": "Cabine de Votação.",
+                                            "Proximo": {
+                                                "Id": 11,
+                                                "Titulo": "Posso levar uma 'colinha' com os números dos meus candidatos?",
+                                                "Categoria": "Urna, Regras e Pós-Eleição",
+                                                "Descricao": "A Justiça Eleitoral incentiva o uso de anotações em papel contendo os números dos candidatos escolhidos para otimizar o tempo na cabine de votação. O uso de celulares para consulta no interior da cabine permanece proibido.",
+                                                "PublicoAlvo": "Eleitores que desejam se organizar previamente.",
+                                                "Canal": "Material impresso ou manuscrito (papel).",
+                                                "LocalAtendimento": "Seção Eleitoral.",
+                                                "Proximo": {
+                                                    "Id": 12,
+                                                    "Titulo": "Qual é a diferença entre voto em branco e voto nulo?",
+                                                    "Categoria": "Urna, Regras e Pós-Eleição",
+                                                    "Descricao": "Ambos configuram votos inválidos que não são computados para nenhum candidato ou partido, servindo apenas para fins estatísticos. O voto em branco é registrado ao pressionar a tecla 'Branco' seguida de 'Confirma'; o nulo ocorre ao digitar um código numérico inexistente e confirmar.",
+                                                    "PublicoAlvo": "Eleitores em geral.",
+                                                    "Canal": "Urna Eletrônica.",
+                                                    "LocalAtendimento": "Cabine de Votação.",
+                                                    "Proximo": {
+                                                        "Id": 13,
+                                                        "Titulo": "Tenho 16 ou 17 anos, tirei o título, mas não fui votar. Preciso justificar?",
+                                                        "Categoria": "Urna, Regras e Pós-Eleição",
+                                                        "Descricao": "Visto que o voto é facultativo para menores de 18 anos, a ausência às urnas não gera obrigação de justificativa nem incidência de multa. A obrigatoriedade legal de votar ou justificar passa a valer a partir da maioridade (18 anos).",
+                                                        "PublicoAlvo": "Jovens eleitores de 16 e 17 anos.",
+                                                        "Canal": "Não aplicável (Isento).",
+                                                        "LocalAtendimento": "Não aplicável.",
+                                                        "Proximo": {
+                                                            "Id": 14,
+                                                            "Titulo": "O que fazer se eu completar 18 anos e não puder comparecer no dia da eleição?",
+                                                            "Categoria": "Urna, Regras e Pós-Eleição",
+                                                            "Descricao": "Maiores de 18 anos ausentes de seu domicílio eleitoral no dia do pleito devem realizar a justificativa no horário da votação através do aplicativo e-Título (com uso de geolocalização). Caso contrário, dispõem de até 60 dias após cada turno para submeter a justificativa online mediante comprovação documental.",
+                                                            "PublicoAlvo": "Eleitores obrigatórios que estiverem fora do domicílio eleitoral.",
+                                                            "Canal": "Aplicativo e-Título ou Sistema Justifica (Site do TSE).",
+                                                            "LocalAtendimento": "Digital / Online.",
+                                                            "Proximo": {
+                                                                "Id": 15,
+                                                                "Titulo": "O que fazer se eu perdi o dia ou o horário da votação?",
+                                                                "Categoria": "Urna, Regras e Pós-Eleição",
+                                                                "Descricao": "O eleitor maior de 18 anos que perder o prazo de votação pode justificar em até 60 dias após o turno anexando comprovantes válidos (como atestados ou passagens). Perdendo esse prazo, cabe a emissão e quitação da multa eleitoral correspondente para restabelecer a regularidade cadastral. Menores de 16 e 17 anos não sofrem penalidades.",
+                                                                "PublicoAlvo": "Eleitores faltosos no dia da eleição.",
+                                                                "Canal": "Aplicativo e-Título, Autoatendimento Eleitoral ou Cartório Eleitoral.",
+                                                                "LocalAtendimento": "Digital ou Presencial no Cartório.",
+                                                                "Proximo": {
+                                                                    "Id": 16,
+                                                                    "Titulo": "Em quem eu deveria votar nas eleições?",
+                                                                    "Categoria": "Urna, Regras e Pós-Eleição",
+                                                                    "Descricao": "A Justiça Eleitoral e os assistentes institucionais não realizam indicações de candidatos ou partidos políticos devido ao princípio da liberdade e sigilo do voto. Recomenda-se a pesquisa prévia de propostas, planos de governo oficiais e histórico dos candidatos.",
+                                                                    "PublicoAlvo": "Eleitores em busca de orientação de voto.",
+                                                                    "Canal": "Portal DivulgaCandContas (Site do TSE) ou portais de notícias.",
+                                                                    "LocalAtendimento": "Plataforma Online / Digital.",
+                                                                    "Proximo": {
+                                                                        "Id": 17,
+                                                                        "Titulo": "Até quando posso tirar o primeiro título de eleitor antes da eleição?",
+                                                                        "Categoria": "Cadastro e Título de Eleitor",
+                                                                        "Descricao": "O cadastro eleitoral é fechado 150 dias antes da data do primeiro turno (geralmente no início de maio em anos eleitorais). Após essa data, o sistema é bloqueado e não permite emitir o primeiro título nem alterar o local de votação para o pleito do ano.",
+                                                                        "PublicoAlvo": "Cidadãos que desejam emitir o primeiro título ou transferir domicílio eleitoral.",
+                                                                        "Canal": "Site do TSE (Autoatendimento Eleitoral) ou Cartório Eleitoral.",
+                                                                        "LocalAtendimento": "Online ou presencial no Cartório Eleitoral.",
+                                                                        "Proximo": {
+                                                                            "Id": 18,
+                                                                            "Titulo": "Com 16 ou 17 anos sou obrigado a votar?",
+                                                                            "Categoria": "Urna, Regras e Pós-Eleição",
+                                                                            "Descricao": "Não. Para jovens de 16 e 17 anos, o voto é facultativo (opcional). A obrigatoriedade legal de votar só passa a vigorar a partir dos 18 anos completos.",
+                                                                            "PublicoAlvo": "Jovens de 16 e 17 anos.",
+                                                                            "Canal": "Não se aplica.",
+                                                                            "LocalAtendimento": "Não se aplica.",
+                                                                            "Proximo": {
+                                                                                "Id": 19,
+                                                                                "Titulo": "O que acontece se eu não for votar e tiver mais de 18 anos?",
+                                                                                "Categoria": "Urna, Regras e Pós-Eleição",
+                                                                                "Descricao": "Eleitores com 18 anos ou mais que não votarem nem justificarem em até 60 dias ficam em débito com a Justiça Eleitoral, sujeitos a multa (R$ 3,51 por turno) e restrições civis, como impedimento para emitir passaporte ou RG, tomar posse em cargo público, renovar matrícula em ensino oficial ou obter quitação eleitoral.",
+                                                                                "PublicoAlvo": "Eleitores obrigatórios (18 anos ou mais) que faltaram à votação.",
+                                                                                "Canal": "Aplicativo e-Título ou Site do TSE.",
+                                                                                "LocalAtendimento": "Digital / Online.",
+                                                                                "Proximo": {
+                                                                                    "Id": 20,
+                                                                                    "Titulo": "Posso votar usando apenas o celular com o aplicativo e-Título?",
+                                                                                    "Categoria": "Preparação e Dia da Votação",
+                                                                                    "Descricao": "Sim, desde que o aplicativo e-Título exiba a fotografia do eleitor (o que ocorre quando já há cadastramento biométrico). Caso o app não apresente foto, é obrigatório levar um documento oficial físico com foto.",
+                                                                                    "PublicoAlvo": "Eleitores usuários do aplicativo e-Título.",
+                                                                                    "Canal": "Seção Eleitoral.",
+                                                                                    "LocalAtendimento": "Mesa Recebedora de Votos.",
+                                                                                    "Proximo": {
+                                                                                        "Id": 21,
+                                                                                        "Titulo": "O voto nulo ou em branco cancela a eleição se ultrapassar 50%?",
+                                                                                        "Categoria": "Urna, Regras e Pós-Eleição",
+                                                                                        "Descricao": "Não. Votos brancos e nulos são considerados votos inválidos e servem exclusivamente para estatística, não tendo o poder de anular uma eleição independentemente do percentual alcançado, pois a apuração considera apenas os votos válidos.",
+                                                                                        "PublicoAlvo": "Eleitores em geral.",
+                                                                                        "Canal": "Urna Eletrônica.",
+                                                                                        "LocalAtendimento": "Cabine de Votação.",
+                                                                                        "Proximo": {
+                                                                                            "Id": 22,
+                                                                                            "Titulo": "Posso entrar na cabine de votação com o telefone celular?",
+                                                                                            "Categoria": "Preparação e Dia da Votação",
+                                                                                            "Descricao": "Não. É expressamente proibido entrar na cabine de votação com celulares, câmeras, filmadoras ou qualquer dispositivo eletrônico para garantir o sigilo do voto. O aparelho deve ser desligado e deixado na mesa com os mesários antes da votação.",
+                                                                                            "PublicoAlvo": "Eleitores no momento do voto.",
+                                                                                            "Canal": "Seção Eleitoral.",
+                                                                                            "LocalAtendimento": "Cabine de Votação.",
+                                                                                            "Proximo": {
+                                                                                                "Id": 23,
+                                                                                                "Titulo": "Como sei qual é o meu local de votação e número da seção?",
+                                                                                                "Categoria": "Preparação e Dia da Votação",
+                                                                                                "Descricao": "É possível consultar o endereço completo do local de votação, além da zona e seção eleitoral, acessando o aplicativo e-Título ou preenchendo os dados pessoais na consulta de local de votação no site oficial do TSE.",
+                                                                                                "PublicoAlvo": "Eleitores em geral.",
+                                                                                                "Canal": "Aplicativo e-Título ou Site do TSE.",
+                                                                                                "LocalAtendimento": "Digital / Online.",
+                                                                                                "Proximo": {
+                                                                                                    "Id": 24,
+                                                                                                    "Titulo": "Posso ir votar usando a camisa do meu candidato ou partido?",
+                                                                                                    "Categoria": "Preparação e Dia da Votação",
+                                                                                                    "Descricao": "No dia da eleição, o uso de bandeiras, broches, dísticos e adesivos é permitido apenas como manifestação individual e silenciosa do eleitor. Roupas padronizadas, camisas de partidos ou bandeiras coletivas configuram propaganda irregular (boca de urna) ou aglomeração proibida.",
+                                                                                                    "PublicoAlvo": "Eleitores no dia da eleição.",
+                                                                                                    "Canal": "Seção Eleitoral.",
+                                                                                                    "LocalAtendimento": "Local de Votação.",
+                                                                                                    "Proximo": {
+                                                                                                        "Id": 25,
+                                                                                                        "Titulo": "Quem tem 18 anos ou mais e não votou pode fazer faculdade ou matrícula?",
+                                                                                                        "Categoria": "Urna, Regras e Pós-Eleição",
+                                                                                                        "Descricao": "Depende da instituição. Pela lei federal, a quitação eleitoral é exigida para matrícula em instituições de ensino superior oficiais ou reconhecidas. Eleitores maiores de 18 anos em débito com a Justiça Eleitoral podem enfrentar impedimentos na matrícula ou colação de grau até regularizarem a pendência.",
+                                                                                                        "PublicoAlvo": "Estudantes universitários e candidatos ao ensino superior maiores de 18 anos.",
+                                                                                                        "Canal": "Secretaria Acadêmica da Faculdade ou Cartório Eleitoral.",
+                                                                                                        "LocalAtendimento": "Presencial ou Online (para regularização no TSE).",
+                                                                                                        "Proximo": {
+                                                                                                            "Id": 26,
+                                                                                                            "Titulo": "Onde vejo o que cada candidato defende e suas propostas?",
+                                                                                                            "Categoria": "Cadastro e Título de Eleitor",
+                                                                                                            "Descricao": "Todas as propostas oficiais, planos de governo detalhados, bens declarados e histórico dos candidatos podem ser consultados gratuitamente através do sistema DivulgaCandContas no portal do TSE, além de debates e veículos de imprensa confiáveis.",
+                                                                                                            "PublicoAlvo": "Eleitores em busca de informações sobre candidatos.",
+                                                                                                            "Canal": "Portal DivulgaCandContas (Site do TSE).",
+                                                                                                            "LocalAtendimento": "Plataforma Online / Digital.",
+                                                                                                            "Proximo": null
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
